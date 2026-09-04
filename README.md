@@ -61,9 +61,4 @@ For full documentation, theoretical background, and detailed test results, pleas
 *   Solar panel integration to create a more sustainable, self-sufficient energy loop.
 
 ## Contributors
-Developed by students of BRAC University (Department of Computer Science and Engineering):
-*   Maisha Farzana Joyee
-*   Sohanur Rahman Khan
-*   Tahiya Haider
-*   Abdun Noor Adnan
-*   Aovejeet Saha
+Developed by students of BRAC University (Department of Computer Science and Engineering)
